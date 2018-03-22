@@ -1,0 +1,34 @@
+{
+  "basics":{
+    "photo":"download.jpg",
+    "name":"ayesha",
+    "mail":"ayeshaqureshi098@gmail.com",
+    "mobile":"8367011442"
+  },
+"education":[
+  {
+    "course":"B.tech(Computer science and engineering)",
+    "college":[
+      "g.pullaiah college of engineering",
+      "2015-2019",
+      "70"
+      ]
+    },
+    {
+      "course":"diploma(cse)",
+      "college":[
+        "smt.durgabhai deshmukh polytechnic polytechnic college",
+        "2013-2016",
+        "80"
+        ]
+  },
+{
+  "course":"ssc",
+  "college":[
+    "st.johns english medium school",
+    "2012-2013",
+    "7.5"
+    ]
+}
+]
+}
